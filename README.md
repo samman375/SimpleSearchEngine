@@ -3,5 +3,5 @@
 - This project had a focus on understanding and implementing graph data structures.
 - **A project spec for this assignment could not be retrieved as it was completed too long ago.**
 - **No instructions to run can be provided at this time.**
-- **This repository is intended to show the code base for an ADT in C.**
+- **This repository is intended to show the code base for a graph data structure in C.**
 - A final mark of 81/100 was awarded and was worth 14% of grade.
